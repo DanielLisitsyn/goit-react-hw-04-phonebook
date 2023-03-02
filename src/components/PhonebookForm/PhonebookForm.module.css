@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px;
+  height: 150px;
+  border: 1.5px solid rgba(0, 0, 0, 0.598);
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.labelForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputForm {
+  margin-top: 5px;
+  width: 150px;
+}
+
+.addContact {
+  height: 23px;
+  width: 100px;
+  border-radius: 2px;
+  border: none;
+  background-color: rgb(229, 237, 245);
+}
+
+.addContact:hover {
+  background-color: rgb(65, 138, 235);
+  color: aliceblue;
+}

@@ -1,0 +1,17 @@
+.listItem {
+  margin-bottom: 10px;
+}
+
+.deleteBtn {
+  margin-left: 15px;
+  border-radius: 2px;
+  border: none;
+  background-color: rgb(229, 237, 245);
+  height: 23px;
+  width: 70px;
+}
+
+.deleteBtn:hover {
+  background-color: rgb(65, 138, 235);
+  color: aliceblue;
+}
